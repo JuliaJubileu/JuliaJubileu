@@ -10,7 +10,5 @@
 
 🎯	My next goal is to begin writing about code related stuff to share my progress with the world. 
 
-📫 Find me on my other networks: 
-
-[💼](https://www.linkedin.com/in/juliajubileu/) - [🐦](https://twitter.com/JubileuJulia) - [💻](https://dev.to/jubileujulia)
+📫 Find me on my other networks: [LinkedIn](https://www.linkedin.com/in/juliajubileu/) // [Twitter](https://twitter.com/JubileuJulia) // [Dev.to](https://dev.to/jubileujulia)
 
