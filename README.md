@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Julia 👋
 
-<!--
-**JuliaJubileu/JuliaJubileu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img width="20%" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" />
+</p>
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Ruby, Ruby on Rails, TDD and code best practices on [TreinaDev](https://www.treinadev.com.br/home).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I’m currently working on my final project for the course, a tech focused job board. See [here](https://github.com/JuliaJubileu/job-board-td5).
+
+🎯	My next goal is to begin writing about code related stuff to share my progress with the world. 
+
+📫 Find me on my other networks: 
+
+[💼](https://www.linkedin.com/in/juliajubileu/) - [🐦](https://twitter.com/JubileuJulia) - [💻](https://dev.to/jubileujulia)
+
